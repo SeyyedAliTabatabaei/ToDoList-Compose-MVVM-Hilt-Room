@@ -1,0 +1,1 @@
+package ir.at.todolistconst val HIGH = "High"const val MEDIUM = "Medium"const val LOW = "Low"

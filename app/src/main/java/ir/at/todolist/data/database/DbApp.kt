@@ -1,0 +1,1 @@
+package ir.at.todolist.data.databaseimport androidx.room.Databaseimport androidx.room.RoomDatabaseimport ir.at.todolist.data.Task@Database(entities = [Task::class] , version = 1 , exportSchema = false)abstract class DbApp : RoomDatabase() {    abstract fun getDaoApp() : DaoApp}

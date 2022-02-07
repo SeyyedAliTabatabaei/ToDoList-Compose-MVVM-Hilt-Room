@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="search_title">Search title here...</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="no_records">No records found</string>
+</resources>
