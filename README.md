@@ -21,8 +21,6 @@ ToDo is a save task and complete they. this app developed with Kotlin and MVVM a
 
 <img src="https://raw.githubusercontent.com/alitabatabaei1381/ToDoList-Compose-MVVM-Hilt-Room/master/photo_2022-02-07%2021.59.18.jpeg" alt="ToDo_screen_shot" width="200"/>  
 <img src="https://raw.githubusercontent.com/alitabatabaei1381/ToDoList-Compose-MVVM-Hilt-Room/master/photo_2022-02-07%2021.59.21.jpeg" alt="ToDo_screen_shot" width="200"/> 
-<img src="https://raw.githubusercontent.com/alitabatabaei1381/ToDoList-Compose-MVVM-Hilt-Room/master/photo_2022-02-07%2021.59.18.jpeg" alt="ToDo_screen_shot" width="200"/>  
-
 
 ## Demo
 
